@@ -1,13 +1,13 @@
 body {
   background-color: white;
-  margin: 20;
+  margin: 20px;
 }
 
 h1 {
   color: black;
-  position: relativa;
-  top: 0;
-  left: 350;
+  position: relative;
+  top: 0px;
+  left: 350px;
 }
 
 p {
