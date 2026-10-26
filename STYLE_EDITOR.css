@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  position: relativa;
+  position: relative;
   color: black;
   top: 0;
   left: 350;
