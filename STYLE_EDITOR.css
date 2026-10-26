@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
+  position: relative;
   color: white;
   background-color: green;
-  position: relative;
   top: 0;
   left: 350;
 }
