@@ -14,8 +14,10 @@ p {
   color: red;
 }
 
-.square{
-  height: 50;
-  width: 50:
-  background-color: blue;
+<style>
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
 }
+</style>
